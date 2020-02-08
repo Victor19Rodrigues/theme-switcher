@@ -1,8 +1,8 @@
 
-<h3 align="center">
+<h1 align="center">
      Simple Header component with theme switcher button (dark / light). 
      Based on the Rocketseat youtube video [Code/Drops #16 - Tema light/dark com React, Styled Components e TypeScript](https://www.youtube.com/watch?v=ngVU74daJ8Y) 
-</h3>
+</h1>
 
 ## Overview
 
